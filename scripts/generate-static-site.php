@@ -204,6 +204,12 @@ if (file_exists(__DIR__ . '/../robots.txt')) {
     copy(__DIR__ . '/../robots.txt', $outputDir . '/robots.txt');
 }
 
+// Remove README.md if it exists (GitHub Pages will serve it instead of index.html)
+if (file_exists($outputDir . '/README.md')) {
+    unlink($outputDir . '/README.md');
+    echo "Removed README.md from gh-pages (to prevent GitHub Pages from serving it)\n";
+}
+
 // Create .nojekyll file (tells GitHub Pages not to process with Jekyll)
 file_put_contents($outputDir . '/.nojekyll', '');
 
