@@ -1,0 +1,291 @@
+[
+  {
+    "id": 1,
+    "slug": "dubai-city-tour-private",
+    "title": "Dubai City Tour (Private)",
+    "excerpt": "Explore Dubai's iconic landmarks with a licensed expert guide. Visit Burj Khalifa, Dubai Mall, Palm Jumeirah, and more.",
+    "description": "<p>Experience the best of Dubai with our comprehensive private city tour. This full-day excursion takes you to the most iconic landmarks and attractions that make Dubai a world-renowned destination.</p><h3>Highlights</h3><ul><li>Visit the world's tallest building, Burj Khalifa</li><li>Explore the magnificent Dubai Mall</li><li>See the stunning Palm Jumeirah</li><li>Visit the historic Dubai Museum</li><li>Experience traditional souks and modern architecture</li></ul>",
+    "duration": "4 hours",
+    "price_from": 85.00,
+    "currency": "USD",
+    "image": "dubai-city-tour.jpg",
+    "image_webp": "dubai-city-tour.webp",
+    "images": ["dubai-city-tour-1.jpg", "dubai-city-tour-2.jpg"],
+    "tags": ["family", "luxury", "city-tour"],
+    "inclusions": [
+      "Licensed professional guide",
+      "Private vehicle with driver",
+      "Hotel pickup and drop-off",
+      "Entrance fees to attractions",
+      "Bottled water"
+    ],
+    "exclusions": [
+      "Meals",
+      "Personal expenses",
+      "Gratuities"
+    ],
+    "itinerary": [
+      {
+        "time": "09:00",
+        "activity": "Hotel pickup and start of tour"
+      },
+      {
+        "time": "09:30",
+        "activity": "Visit Burj Khalifa and Dubai Mall"
+      },
+      {
+        "time": "11:00",
+        "activity": "Explore Palm Jumeirah and Atlantis"
+      },
+      {
+        "time": "12:30",
+        "activity": "Lunch break (optional)"
+      },
+      {
+        "time": "14:00",
+        "activity": "Visit Dubai Museum and Gold Souk"
+      },
+      {
+        "time": "15:30",
+        "activity": "Return to hotel"
+      }
+    ],
+    "created_at": "2025-01-14T00:00:00+04:00"
+  },
+  {
+    "id": 2,
+    "slug": "desert-safari-evening",
+    "title": "Evening Desert Safari",
+    "excerpt": "Experience the magic of the Arabian desert with dune bashing, camel rides, BBQ dinner, and traditional entertainment.",
+    "description": "<p>Embark on an unforgettable desert adventure with our evening safari. This thrilling experience combines adventure, culture, and entertainment in the heart of the Arabian Desert.</p><h3>What to Expect</h3><p>Enjoy dune bashing in a 4x4 vehicle, camel rides, sandboarding, traditional henna painting, and a delicious BBQ dinner under the stars with live entertainment including belly dancing and fire shows.</p>",
+    "duration": "6 hours",
+    "price_from": 65.00,
+    "currency": "USD",
+    "image": "desert-safari.jpg",
+    "image_webp": "desert-safari.webp",
+    "images": ["desert-safari-1.jpg", "desert-safari-2.jpg"],
+    "tags": ["adventure", "family", "evening"],
+    "inclusions": [
+      "4x4 dune bashing",
+      "Camel ride",
+      "Sandboarding",
+      "BBQ dinner",
+      "Live entertainment",
+      "Henna painting",
+      "Hotel pickup and drop-off"
+    ],
+    "exclusions": [
+      "Alcoholic beverages",
+      "Quad biking (optional extra)",
+      "Personal expenses"
+    ],
+    "itinerary": [
+      {
+        "time": "15:00",
+        "activity": "Hotel pickup"
+      },
+      {
+        "time": "16:00",
+        "activity": "Dune bashing adventure"
+      },
+      {
+        "time": "17:00",
+        "activity": "Camel rides and sandboarding"
+      },
+      {
+        "time": "18:00",
+        "activity": "Sunset photography"
+      },
+      {
+        "time": "18:30",
+        "activity": "Arrive at desert camp"
+      },
+      {
+        "time": "19:00",
+        "activity": "BBQ dinner and entertainment"
+      },
+      {
+        "time": "21:00",
+        "activity": "Return to hotel"
+      }
+    ],
+    "created_at": "2025-01-14T00:00:00+04:00"
+  },
+  {
+    "id": 3,
+    "slug": "abu-dhabi-grand-mosque-tour",
+    "title": "Abu Dhabi Grand Mosque Tour",
+    "excerpt": "Visit the magnificent Sheikh Zayed Grand Mosque, one of the world's largest mosques, with expert cultural insights.",
+    "description": "<p>Discover the architectural masterpiece that is the Sheikh Zayed Grand Mosque. This tour provides an in-depth cultural experience with detailed explanations of Islamic architecture and traditions.</p><h3>Highlights</h3><ul><li>Guided tour of the Grand Mosque</li><li>Learn about Islamic architecture and culture</li><li>Photography opportunities</li><li>Visit to the Heritage Village</li><li>Corniche drive</li></ul>",
+    "duration": "5 hours",
+    "price_from": 75.00,
+    "currency": "USD",
+    "image": "grand-mosque.jpg",
+    "image_webp": "grand-mosque.webp",
+    "images": ["grand-mosque-1.jpg"],
+    "tags": ["cultural", "luxury", "sightseeing"],
+    "inclusions": [
+      "Licensed guide",
+      "Transportation",
+      "Entrance fees",
+      "Traditional attire (if needed)",
+      "Hotel pickup and drop-off"
+    ],
+    "exclusions": [
+      "Meals",
+      "Personal expenses"
+    ],
+    "itinerary": [
+      {
+        "time": "09:00",
+        "activity": "Hotel pickup"
+      },
+      {
+        "time": "10:30",
+        "activity": "Arrive at Grand Mosque"
+      },
+      {
+        "time": "11:00",
+        "activity": "Guided tour of the mosque"
+      },
+      {
+        "time": "12:30",
+        "activity": "Visit Heritage Village"
+      },
+      {
+        "time": "13:30",
+        "activity": "Corniche drive"
+      },
+      {
+        "time": "14:00",
+        "activity": "Return to hotel"
+      }
+    ],
+    "created_at": "2025-01-14T00:00:00+04:00"
+  },
+  {
+    "id": 4,
+    "slug": "burj-al-arab-luxury-experience",
+    "title": "Burj Al Arab Luxury Experience",
+    "excerpt": "Experience the epitome of luxury at the iconic Burj Al Arab, the world's only 7-star hotel, with afternoon tea or dining.",
+    "description": "<p>Indulge in the ultimate luxury experience at the Burj Al Arab, one of the most iconic hotels in the world. This exclusive tour includes access to the hotel's stunning interiors and a premium dining experience.</p>",
+    "duration": "3 hours",
+    "price_from": 150.00,
+    "currency": "USD",
+    "image": "burj-al-arab.jpg",
+    "image_webp": "burj-al-arab.webp",
+    "images": ["burj-al-arab-1.jpg"],
+    "tags": ["luxury", "vip", "dining"],
+    "inclusions": [
+      "Hotel access",
+      "Afternoon tea or lunch",
+      "Professional guide",
+      "Transportation",
+      "Hotel pickup and drop-off"
+    ],
+    "exclusions": [
+      "Additional beverages",
+      "Personal expenses"
+    ],
+    "created_at": "2025-01-14T00:00:00+04:00"
+  },
+  {
+    "id": 5,
+    "slug": "dubai-marina-dhow-cruise",
+    "title": "Dubai Marina Dhow Cruise",
+    "excerpt": "Enjoy a romantic dinner cruise along Dubai Marina and JBR on a traditional dhow with stunning city views.",
+    "description": "<p>Experience Dubai's skyline from the water on a traditional dhow cruise. Enjoy a delicious dinner while cruising past iconic landmarks including the Palm Jumeirah, Atlantis, and the stunning Dubai Marina.</p>",
+    "duration": "2 hours",
+    "price_from": 55.00,
+    "currency": "USD",
+    "image": "dhow-cruise.jpg",
+    "image_webp": "dhow-cruise.webp",
+    "images": ["dhow-cruise-1.jpg"],
+    "tags": ["romantic", "dining", "evening"],
+    "inclusions": [
+      "Dhow cruise",
+      "International buffet dinner",
+      "Live entertainment",
+      "Hotel pickup and drop-off"
+    ],
+    "exclusions": [
+      "Alcoholic beverages",
+      "Personal expenses"
+    ],
+    "created_at": "2025-01-14T00:00:00+04:00"
+  },
+  {
+    "id": 6,
+    "slug": "ferrari-world-abu-dhabi",
+    "title": "Ferrari World Abu Dhabi",
+    "excerpt": "Experience the world's fastest roller coaster and enjoy thrilling rides at the world's first Ferrari-themed park.",
+    "description": "<p>Get your adrenaline pumping at Ferrari World Abu Dhabi, home to the world's fastest roller coaster. This full-day experience includes access to all rides, shows, and attractions in the park.</p>",
+    "duration": "8 hours",
+    "price_from": 95.00,
+    "currency": "USD",
+    "image": "ferrari-world.jpg",
+    "image_webp": "ferrari-world.webp",
+    "images": ["ferrari-world-1.jpg"],
+    "tags": ["adventure", "family", "theme-park"],
+    "inclusions": [
+      "Park entrance ticket",
+      "Access to all rides",
+      "Transportation",
+      "Hotel pickup and drop-off"
+    ],
+    "exclusions": [
+      "Meals",
+      "Personal expenses"
+    ],
+    "created_at": "2025-01-14T00:00:00+04:00"
+  },
+  {
+    "id": 7,
+    "slug": "luxury-airport-transfer",
+    "title": "Luxury Airport Transfer",
+    "excerpt": "Premium airport transfer service with luxury vehicles, meet and greet, and professional chauffeur service.",
+    "description": "<p>Start your Dubai experience in style with our luxury airport transfer service. Choose from premium sedans, SUVs, or luxury vehicles with professional chauffeurs.</p>",
+    "duration": "1 hour",
+    "price_from": 45.00,
+    "currency": "USD",
+    "image": "airport-transfer.jpg",
+    "image_webp": "airport-transfer.webp",
+    "images": [],
+    "tags": ["luxury", "transfer", "vip"],
+    "inclusions": [
+      "Luxury vehicle",
+      "Professional chauffeur",
+      "Meet and greet service",
+      "Luggage assistance",
+      "Bottled water"
+    ],
+    "exclusions": [],
+    "created_at": "2025-01-14T00:00:00+04:00"
+  },
+  {
+    "id": 8,
+    "slug": "customized-itinerary",
+    "title": "Customized Itinerary",
+    "excerpt": "Create your perfect Dubai or Abu Dhabi experience with a fully customized itinerary tailored to your preferences.",
+    "description": "<p>Work with our expert team to create a personalized itinerary that matches your interests, budget, and schedule. Perfect for groups, families, or individuals seeking a unique experience.</p>",
+    "duration": "Flexible",
+    "price_from": 100.00,
+    "currency": "USD",
+    "image": "customized-tour.jpg",
+    "image_webp": "customized-tour.webp",
+    "images": [],
+    "tags": ["custom", "luxury", "vip"],
+    "inclusions": [
+      "Personalized itinerary planning",
+      "Licensed guide",
+      "Transportation",
+      "Flexible scheduling"
+    ],
+    "exclusions": [
+      "Entrance fees (varies)",
+      "Meals (varies)"
+    ],
+    "created_at": "2025-01-14T00:00:00+04:00"
+  }
+]
+

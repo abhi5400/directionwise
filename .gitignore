@@ -1,0 +1,30 @@
+# Environment
+.env
+.env.local
+
+# Logs
+php/logs/*.log
+*.log
+
+# Dependencies
+vendor/
+node_modules/
+
+# Generated static site (optional - you may want to commit this)
+# gh-pages/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+test-output.html
+*.tmp
+

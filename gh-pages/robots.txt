@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api/
+Disallow: /php/data/
+Disallow: /php/logs/
+
+Sitemap: https://directionwisetourism.com/sitemap.xml
+
