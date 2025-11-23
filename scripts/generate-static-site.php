@@ -49,7 +49,7 @@ $tourModel = new TourModel();
 $tours = $tourModel->getAll();
 
 // Base URL for GitHub Pages (update this with your actual GitHub Pages URL)
-$baseUrl = 'https://YOUR_USERNAME.github.io/directionwise'; // User needs to update this
+$baseUrl = 'https://abhi5400.github.io/directionwise';
 
 // Function to render a view to HTML
 function renderView($viewName, $data = [], $baseUrl = '') {
